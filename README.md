@@ -6,6 +6,7 @@ In each new game series of new concepts will be used and explored.
 It is also a study aout Python as a language, on how to reach the same objectives using totally different structures.
 
 smallTextAdventureGame:
+-
 
 _funcions
 
@@ -26,6 +27,7 @@ _empty line with print()
 
 
 textAdventureGame:
+-
 
 _array
 
@@ -42,8 +44,8 @@ _concatenation
 _empty line with /n
 
 
-
 pong:
+-
 
 *inside of the code there's notes about different operational systems
 
@@ -70,4 +72,5 @@ _if statement
 _playing music
 
 
-*All the exercises were made by the generous contribution of open source communities. Tutorial links are described within the code. Therefore this repository is also made to be remixed and shared.
+*All the exercises were made by the generous contribution of open source communities. Tutorial links are described within the code. Therefore this repository is also made to be remixed and shared.*
+
